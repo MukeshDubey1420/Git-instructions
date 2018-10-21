@@ -255,3 +255,7 @@ git status # used to know the status of the files being tracked or not
 Note :- By doing so Sometimes Vim editor opens , Command is `:wq` ":" enter ,"w" write , "q" save and quit.
 
 * `git merge <branchname>` it is used to To merge a different branch into your active branch:
+ 
+* `git stash` it is used to stash or store the entire work on a stack and working directory will be clean.
+
+* `git stash pop` it is used to un-apply the stashed items from git and everything will be back.
